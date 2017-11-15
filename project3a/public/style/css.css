@@ -1,0 +1,23 @@
+
+#header{
+    text-align: center;
+    font-family: Zapfino;
+    font-size: 70px;
+    color:white;
+}
+
+#content{
+    padding: 10%;
+    background-color: black;
+    color:white;
+    font-size: 200%;
+}
+body{
+    background-color: black;
+}
+
+#pic{
+    margin-top: 2%;
+    margin-left: 35%;
+
+}
