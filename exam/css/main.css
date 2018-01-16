@@ -1,0 +1,131 @@
+@media screen and (min-width: 310px) {
+
+
+
+
+
+
+
+    #two {
+        display: block;
+        background-color: cadetblue;
+        height: 60px;
+        width: 100px;
+        font-size: 30px;
+        font-family: joe;
+
+        border-radius:15px;
+        text-align: center;
+        padding-top: 20px;
+        position: absolute;
+        margin-left: 10%;
+
+
+    }
+    #four{
+        display: block;
+        background-color: cadetblue;
+        height: 60px;
+        width: 100px;
+        font-size: 30px;
+        font-family: joe;
+
+        border-radius:15px;
+        text-align: center;
+        padding-top: 20px;
+        position: absolute;
+        margin-left: 60%;
+
+
+
+        }
+    #six{
+        display: block;
+        background-color: cadetblue;
+        height: 60px;
+        width: 100px;
+        font-size: 30px;
+        font-family: joe;
+
+  position: relative;
+        border-radius:15px;
+        text-align: center;
+        padding-top: 20px;
+        margin-top: 10%;
+        margin-left: 60%;
+
+    }
+    #eight{
+        display: block;
+        background-color: cadetblue;
+        height: 60px;
+        width: 100px;
+        font-size: 30px;
+        font-family: joe;
+
+        border-radius:15px;
+        text-align: center;
+        padding-top: 20px;
+
+        margin-top: 30%;
+        margin-left: 60%;
+    }
+
+
+    #shitbox{
+        display: block;
+        background-color: cadetblue;
+        height: 60px;
+        width: 100px;
+        font-size: 30px;
+        font-family: joe;
+      margin-top: -25%;
+border-radius:15px;
+text-align: center;
+        padding-top: 20px;
+
+
+        margin-left: 10%;
+    }
+
+
+
+
+    #complete{
+        display: block;
+        background-color: green;
+        height: 80px;
+        width: 200px;
+        font-size: 30px;
+        font-family: joe;
+        margin-top: 20%;
+        border-radius:15px;
+        text-align: center;
+        padding-top: 15px;
+
+
+        margin-left: 15%;
+    }
+
+
+    #back{
+        display: block;
+        background-color: red;
+        height: 50px;
+        width: 130px;
+        font-size: 30px;
+        font-family: joe;
+        margin-top: 20%;
+        border-radius:15px;
+        text-align: center;
+        padding-top: 15px;
+
+margin-bottom: 10%;
+        margin-left: 25%;
+    }
+
+
+    @font-face {
+    font-family: joe;
+    src: url('../font/Junction-regular.woff2') format('woff2');}
+}
